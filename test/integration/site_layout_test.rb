@@ -1,5 +1,6 @@
 require 'test_helper'
 
+#Are the links to the different pages following the right path?
 class SiteLayoutTest < ActionDispatch::IntegrationTest
 
   test "layout links" do
